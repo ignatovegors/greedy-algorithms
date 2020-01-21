@@ -1,4 +1,4 @@
-def dot_covering(a):
+def section_covering(a):
     a.sort(key=sort_custom)
     res = []
 
@@ -27,8 +27,8 @@ def main():
         x, y = map(int, input().split())
         a.append([x, y])
 
-    print(len(dot_covering(a)))
-    print(*dot_covering(a))
+    print(len(section_covering(a)))
+    print(*section_covering(a))
 
 
 if __name__ == '__main__':
