@@ -8,3 +8,5 @@ Solutions of different problems related to greedy algorithms
 <b>diff-terms</b> a problem of representing a number as a summ of the greatest amount of different natural terms
 
 <b>huffman-coding</b> a problem of coding a string by the optimal non-prefix binary code
+
+<b>huffman-decoding</b> a problem of decoding a string, coded by the non-prefix binary code
