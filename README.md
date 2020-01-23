@@ -10,3 +10,5 @@ Solutions of different problems related to greedy algorithms
 <b>huffman-coding</b> a problem of coding a string by the optimal non-prefix binary code
 
 <b>huffman-decoding</b> a problem of decoding a string, coded by the non-prefix binary code
+
+<b>binary-heap</b> a model of the binary heap with maintaince of incserting elements into the heap and extracting maximum element from it
