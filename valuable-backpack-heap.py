@@ -20,7 +20,6 @@ def main():
     reader = (tuple(map(int, line.split())) for line in sys.stdin)
     n, capacity = next(reader)
     goods = list(reader)
-    print('huy')
 
     print(valuable_backpack(goods, capacity))
 
