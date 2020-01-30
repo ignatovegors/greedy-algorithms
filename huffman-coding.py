@@ -35,7 +35,7 @@ def huffman_coding(st):
 
 
 def main():
-    s = input()
+    s = str(input())
     code = huffman_coding(s)
     encoded = "".join(code[ch] for ch in s)
     print(len(code), len(encoded))
